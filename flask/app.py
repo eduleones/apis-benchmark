@@ -1,4 +1,3 @@
-from decimal import Decimal
 from flask import Flask, request, jsonify, Response
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.ext.automap import automap_base
