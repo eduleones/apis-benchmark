@@ -6,6 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+# Vscode
+.vscode
+*.vscode
+.vscode/
+.vscode/*
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
 # Distribution / packaging
 .Python
 build/
