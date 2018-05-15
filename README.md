@@ -20,3 +20,12 @@ Simple REST API Benchmark:  Django Rest Framework x Flask x API Star
 
 
 # Benchmark:
+
+### Test 1: GET - return JSON with 1000 records
+Test with Postman
+
+#### Django: 78ms
+#### Flask: 64ms
+#### ApiStar: 82ms
+
+
