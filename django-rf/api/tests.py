@@ -8,7 +8,7 @@ from .models import Product
 
 class ProductTestModel(APITestCase):
     def setUp(self):
-        self.product = mommy.make(Product, name='José da Silva')s
+        self.product = mommy.make(Product)
         self.client = APIClient()
 
     def test_product_creation(self):
