@@ -29,3 +29,5 @@ Test with Postman
 #### ApiStar: 82ms
 
 
+### Test 2: GET - return JSON with 1000 records
+Test Apache Benckmark
