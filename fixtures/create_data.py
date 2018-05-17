@@ -1,4 +1,3 @@
-import json, io
 
 i = 1
 data = ''
